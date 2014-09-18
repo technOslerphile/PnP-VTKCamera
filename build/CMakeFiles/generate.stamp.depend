@@ -1,0 +1,28 @@
+# CMake generation dependency list for this directory.
+C:/VTK/VTK-examples/PnP-VtkCamera/CMakeLists.txt
+C:/VTK/VTK-examples/PnP-VtkCamera/build/CMakeFiles/2.8.12.2/CMakeSystem.cmake
+C:/VTK/VTK-examples/PnP-VtkCamera/build/CMakeFiles/2.8.12.2/CMakeCCompiler.cmake
+C:/VTK/VTK-examples/PnP-VtkCamera/build/CMakeFiles/2.8.12.2/CMakeCXXCompiler.cmake
+C:/Program Files/CMake 2.8/share/cmake-2.8/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake 2.8/share/cmake-2.8/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows.cmake
+C:/Program Files/CMake 2.8/share/cmake-2.8/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake 2.8/share/cmake-2.8/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows-MSVC.cmake
+C:/VTK/VTK-examples/PnP-VtkCamera/build/CMakeFiles/2.8.12.2/CMakeRCCompiler.cmake
+C:/Program Files/CMake 2.8/share/cmake-2.8/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake 2.8/share/cmake-2.8/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake 2.8/share/cmake-2.8/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake 2.8/share/cmake-2.8/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake 2.8/share/cmake-2.8/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake 2.8/share/cmake-2.8/Modules/FindVTK.cmake
+C:/VTK/VTK-install/lib/vtk-5.10/VTKConfigVersion.cmake
+C:/VTK/VTK-install/lib/vtk-5.10/VTKConfig.cmake
+C:/VTK/VTK-install/lib/vtk-5.10/VTKConfigQt.cmake
+C:/VTK/VTK-install/lib/vtk-5.10/VTKTargets.cmake
+C:/VTK/VTK-install/lib/vtk-5.10/VTKTargets-release.cmake
+C:/VTK/VTK-install/lib/vtk-5.10/UseVTK.cmake
+C:/Program Files/CMake 2.8/share/cmake-2.8/Modules/CMakeImportBuildSettings.cmake
+C:/VTK/VTK-install/lib/vtk-5.10/CMake/vtkMakeInstantiator.cmake
